@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadEssam77
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript framework (Angular)
+- 🌱 I’m currently learning JavaScript framework (Angular & Vuejs)
 - 📫 You can reach me through gmail (ahmad77essam@gmail.com) or send me a message via LinkedIn (https://www.linkedin.com/in/aessamcode/)
 
 <!---
