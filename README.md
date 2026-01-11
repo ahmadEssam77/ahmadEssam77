@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ahmadEssam77
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript framework (Angular & Vuejs)
-- 📫 You can reach me through gmail (ahmad77essam@gmail.com) or send me a message via LinkedIn (https://www.linkedin.com/in/aessamcode/)
+- 👋 Hi, I’m Ahmad Data analyst using Python
+- 📫 You can reach me through Gmail (ahmad77essam@gmail.com) or send me a message via LinkedIn (https://www.linkedin.com/in/aessamcode/)
+- My skills, advanced Excel, statistics, Tableau, Power BI, SQL, and Python. 
 
 <!---
 ahmadEssam77/ahmadEssam77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
